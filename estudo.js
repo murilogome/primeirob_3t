@@ -15,7 +15,7 @@ function escreva (){
 
 }
 
-let lista = ["Terra", "Marte", "Saturno" , "Júpiter" , "Vênus" , "Mercúrio"];
+let lista = ["jesus", "neuza", "gilmar" , "duarte" , "jorge" , "spessato"];
 function mostraLista (){
     document.write ("Tamanho da lista: " + lista.length + "<br>");
     
