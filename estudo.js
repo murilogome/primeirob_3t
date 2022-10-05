@@ -20,7 +20,7 @@ function mostraLista (){
     document.write ("Tamanho da lista: " + lista.length + "<br>");
     
     for(let i = 0; i < lista.length; i++){
-        document.write ("Planeta " + lista[i] + "<br>");
+        document.write ("professor" + lista[i] + "<br>");
     }
 }
 
