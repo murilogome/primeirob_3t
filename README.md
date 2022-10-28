@@ -1,7 +1,7 @@
-# terceiro trimestre
+# Terceiro Trimestre
 
-#identificação
-#murilo de souza - n.32
+##Identificação
+murilo de souza n32 1b
 
-#conteúdo
-#HTML,CSS,JAVASCRIPT
+##Conteudo
+HTML,CSS e javaScript
